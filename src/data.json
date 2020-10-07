@@ -1,0 +1,77 @@
+
+{"details":[
+    {
+        "id": 1,
+        "name": "abc",
+        "pizza":"50",
+        "Veggie":"60",
+        "burger": "80",
+        "Veg Extravaganza":"100",
+        "Chicken_Sausage":"150",
+        "Cheese_n_Corn":"170",
+        "Farmhouse":"110",
+        "Margherita":"120",
+        "Deluxe_Veggie":"190",
+        "Indi_Tandoori_Paneer":"200"
+    },
+  
+    {
+        "id": 2,
+        "name":"def",
+        "pizza":"50",
+        "Veggie":"60",
+        "burger": "80",
+        "Veg_Extravaganza":"100",
+        "Chicken_Sausage":"150",
+        "Cheese_n_Corn":"170",
+        "Farmhouse":"110",
+        "Margherita":"120",
+        "Deluxe_Veggie":"190",
+        "Indi_Tandoori_Paneer":"200"
+    },
+    {
+        "id": 3,
+        "name": "geh",
+        "pizza":"50",
+        "Veggie":"60",
+        "burger": "80",
+        "Veg_Extravaganza":"100",
+        "Chicken_Sausage":"150",
+        "Cheese_n_Corn":"170",
+        "Farmhouse":"110",
+        "Margherita":"120",
+        "Deluxe_Veggie":"190",
+        "Indi_Tandoori_Paneer":"200"
+    },
+    {
+        "id": 4,
+        "name": "ijk",
+        "pizza":"50",
+        "Veggie":"60",
+        "burger": "80",
+        "Veg_Extravaganza":"100",
+        "Chicken_Sausage":"150",
+        "Cheese_n_Corn":"170",
+        "Farmhouse":"110",
+        "Margherita":"120",
+        "Deluxe_Veggie":"190",
+        "Indi_Tandoori_Paneer":"200"
+    },
+    {
+        "id": 5,
+        "name": "lmn",
+        "pizza":"50",
+        "Veggie":"60",
+        "burger": "80",
+        "Veg_Extravaganza":"100",
+        "Chicken_Sausage":"150",
+        "Cheese_n_Corn":"170",
+        "Farmhouse":"110",
+        "Margherita":"120",
+        "Deluxe_Veggie":"190",
+        "Indi_Tandoori_Paneer":"200"
+    }
+    
+
+  ]
+}
